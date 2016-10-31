@@ -59,14 +59,16 @@ Team members worked together to create GitHub repo and supply any necessary docu
 
 Database  
 
-* Finalize ERD ()
-Team member put final touches on detailed ERD.
+* Finalize ERD (Lead: Andrea McGovern, Co:Teddy Ivanov)
+Team member put final touches on detailed ERD. Added Manifest table and corresponding attributes.
 
-* Database Creation (Lead: Teddy Ivanov, Co: Andrea McGovern
-Team members setup an account on MLab and hosted our database on Amazon Web Services. Team members created a MongoDB account and installed MongoDB on their computers. Created a database in MLab named it "swfg3" and created an admin user. Then, they connected our MLab and MongoDB using via Mongo shell. 
+* Database Creation (Lead: Teddy Ivanov, Co: Andrea McGovern)
+Team members setup an account on MLab and hosted our database on Amazon Web Services. Team members created a MongoDB account and installed MongoDB on their computers. Created a database in MLab named it "swfg3" and created an admin user. Then, they connected our MLab and MongoDB using via Mongo shell.
 
-* Implement DB, seed data for development (Andrea McGovern)
-Team member logged into the database and started to insert dummy JSON data. Utilized Elastic File Share.
+* Implement DB, seed data for development (Teddy Ivanov)
+Team member logged into the Mongo Database and started to insert dummy JSON data. Utilized Elastic File Share system.
+![Mlab && MongoDB]()
+![Dummy data]()
 
 [User Interface](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html)  
 
