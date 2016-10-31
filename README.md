@@ -88,6 +88,8 @@ and
 
 Testing and Documentation
 
+[All Test Cases](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Testing--Documentation.pdf) 
+
 * User Acceptance Test (Soya Ouk)  
   Task 1: Created google documents for user acceptance cases
   Task 2: Created google documents to test to insert files
