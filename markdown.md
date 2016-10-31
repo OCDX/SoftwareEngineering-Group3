@@ -67,8 +67,8 @@ Team members setup an account on MLab and hosted our database on Amazon Web Serv
 
 * Implement DB, seed data for development (Teddy Ivanov)
 Team member logged into the Mongo Database and started to insert dummy JSON data. Utilized Elastic File Share system.
-![Mlab && MongoDB](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Screen%20Shot%202016-10-30%20at%2010.45.31%20PM.png)
-![Dummy data](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Screen%20Shot%202016-10-30%20at%2010.45.07%20PM.png)
+[Mlab && MongoDB](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Screen%20Shot%202016-10-30%20at%2010.45.31%20PM.png)
+[Dummy data](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Screen%20Shot%202016-10-30%20at%2010.45.07%20PM.png)
 
 [User Interface](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html)  
 
