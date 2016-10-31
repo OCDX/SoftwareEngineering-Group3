@@ -34,7 +34,10 @@ Develop a full requirements analysis (“REQS”) for the semester.
 Note: Due to the fact that no code was needed for this sprint, branches were not taken and merged to master
 
 Kickoff Meeting
-Date: 10/25/16 --In class meeting (2:00pm- 3:15) to discuss next steps of Sprint One. All members attended. Team members reviewed Sprint milestone targets and developed drill down tasks. These tasks were distributed amongsth team members and will explained below:
+Date: 10/25/16 --In class meeting (2:00pm- 3:15pm) to discuss next steps of Sprint One. All members attended. Team members reviewed Sprint milestone targets and developed drill down tasks. These tasks were distributed amongsth team members and will explained below.
+
+Tag-Up Meeting
+Date 10/30/16 --Met in Lafferre (6:00pm-11:30pm) to continue working on completing all tasks needed.
 
 General
 
@@ -62,21 +65,38 @@ Team member logged into the database and started to insert dummy JSON data. Util
 [User Interface](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html)  
 
 * Complete design of the user interface (Olivia Apperson)
-Task 1: Reviewed past screen designs and look for improvements
+  Task 1: Reviewed past screen designs and look for improvements
 
-
-Task 2: Created home page, upload file page, search for json files, account information page, modify document page, login page, register page, and logout page using Themefisher Bootstrap templates. Screen designs are included in modified user requirements document or can be found live [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html).
+  Task 2: Created home page, upload file page, search for json files, account information page, modify document page, login page, register page, and logout page using Themefisher Bootstrap templates. Screen designs are included in modified user requirements document or can be found live [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html).
 
 * Complete design of the information architecture (Olivia Apperson)
-Task 1: Developed flow of information to implement on webpages (which clicks led to where)
+  Task 1: Developed flow of information to implement on webpages (which clicks led to where)
 
-Task 2: Connected webpages to flow as designed. Information architecture can be found by navigating through the pages [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html). 
+  Task 2: Connected webpages to flow as designed. Information architecture can be found by navigating through the pages [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html). 
 
 Testing and Documentation
 
-* User Acceptance Test  
-Created google documents for user acceptance cases, test to insert files, update files and delete files.   
+* User Acceptance Test (Soya Ouk)  
+  Task 1: Created google documents for user acceptance cases
+  Task 2: Created google documents to test to insert files
+  Task 3: Created google documents to update files and delete files.  
+  
+* Build Unit Test Scenarios (Soya Ouk)
+  Individual tasks are each unit test scenario
+  
+* Describe regression testing and your regression testing plan (Soya Ouk)
+  Task 1: Described regression testing
+  Task 2: Created Regression testing plan
 
+* Describe how your team will perform integration testing (Olivia Apperson)
+  Task 1: MangoDB, UI, and AWS need to communicate at all times
+  Task 2: When this needs to be integrated? All at once.
+
+* Test Types (Olivia Apperson)
+  Task 1: Described Tests for Verification (Login, Data Upload, Data Edits)
+  Task 2: Described Tests for Validation (Login)
+  
+Backlog: Entering of dummy data. MangoDB is difficult to implement with File storage and requires more work (Andrea McGovern, worked several hours to accomplish this).
 
 
 ## Sprint 2
