@@ -41,6 +41,9 @@ General
 * Sprint Documentation (Lead:Xinyi Li, Co: Olivia Apperson)
 Team members developed Sprint documentation in Markdown on GitHub. They outlined the tasks, milestones, and other relevant data needed as well as linked updated documents.
 
+* Complete setup of Deployment Environment (MangoDB: Teddy Ivanov, AWS: Andrea McGovern)
+Team members worked together to create a database on MangoDB and utilized AWS to host the website, which is now accessible [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html).  
+
 * Database  
 We setup an account on MLab and hosted our database on Amazon Web Services. We created a MongoDB account and installed MongoDB on our computers. Created a database in MLab named it "swfg3" and created an admin user. Then connected our MLab and MongoDB using via Mongo shell. Logged into our database and started to insert dummy JSON data.
 
