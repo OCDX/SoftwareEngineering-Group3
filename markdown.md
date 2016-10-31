@@ -31,14 +31,14 @@ Develop a full requirements analysis (“REQS”) for the semester.
   
 ## Sprint 1
 
-* Note: Due to the fact that no code was needed for this sprint, branches were not taken and merged to master
+Note: Due to the fact that no code was needed for this sprint, branches were not taken and merged to master
 
-* Kickoff Meeting
+Kickoff Meeting
 Date: 10/25/16 --In class meeting (2:00pm- 3:15) to discuss next steps of Sprint One. All members attended. Team members reviewed Sprint milestone targets and developed drill down tasks. These tasks were distributed amongsth team members and will explained below:
 
-* General
+General
 
-Sprint Documentation (Lead:Xinyi Li, Co: Olivia Apperson)
+* Sprint Documentation (Lead:Xinyi Li, Co: Olivia Apperson)
 Team members developed Sprint documentation in Markdown on GitHub. They outlined the tasks, milestones, and other relevant data needed as well as linked updated documents.
 
 * Database  
