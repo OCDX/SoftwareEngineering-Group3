@@ -8,7 +8,9 @@ Olivia Apperson
 Soya Ouk  
 Xinyi Li  
 ## Requirement Analysis
-* [Google Drive of Versions](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsAnalysis.docx.pdf)  
+* [Google Drive] (https://docs.google.com/document/d/1MV1TERh4RiKYwcPS5TSN___B5Fp_3C-kzdJ5ykBqi1I/edit#) 
+
+* [Version 1](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsAnalysis.docx.pdf)  
   
 Develop a full requirements analysis (“REQS”) for the semester.  
 1. Table of Contents  
