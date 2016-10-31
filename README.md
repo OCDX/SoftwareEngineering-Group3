@@ -17,7 +17,7 @@ Xinyi Li
 
 * [Version 2] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsAnalysis.docx%20(1).pdf)
 
-* [SPRINT 1 aka Version 3](https://github.com/TeddyIvanov/SoftwareEngineeringGroup3/blob/master/RequirementsAnalysis.docx%20(2).pdf
+* [Sprint 1 Version 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsAnalysis.docx%20(1).pdf)
   
 Develop a full requirements analysis (“REQS”) for the semester.  
 1. Table of Contents  
