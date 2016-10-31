@@ -39,22 +39,45 @@ Date: 10/25/16 --In class meeting (2:00pm- 3:15) to discuss next steps of Sprint
 General
 
 * Sprint Documentation (Lead:Xinyi Li, Co: Olivia Apperson)
-Team members developed Sprint documentation in Markdown on GitHub. They outlined the tasks, milestones, and other relevant data needed as well as linked updated documents.
+Team members developed Sprint documentation in Markdown on GitHub. They outlined the tasks, milestones, and other relevant data needed as well as linked updated documents. 
 
 * Complete setup of Deployment Environment (MangoDB: Teddy Ivanov, AWS: Andrea McGovern)
 Team members worked together to create a database on MangoDB and utilized AWS to host the website, which is now accessible [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html).  
 
-* Database  
-We setup an account on MLab and hosted our database on Amazon Web Services. We created a MongoDB account and installed MongoDB on our computers. Created a database in MLab named it "swfg3" and created an admin user. Then connected our MLab and MongoDB using via Mongo shell. Logged into our database and started to insert dummy JSON data.
+* Organize GitHub Repo (Lead: Teddy Ivanov, Co: Soya Ouk)
+Team members worked together to create GitHub repo and supply any necessary documentation and code here.
 
-* [User Interface](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html)  
-Created home page, upload file page, search for json files, account information page, logout page using Themefisher Bootstrap templates.  
+
+Database  
+
+* Finalize ERD ()
+Team member put final touches on detailed ERD.
+
+* Database Creation (Lead: Teddy Ivanov, Co: Andrea McGovern
+Team members setup an account on MLab and hosted our database on Amazon Web Services. Team members created a MongoDB account and installed MongoDB on their computers. Created a database in MLab named it "swfg3" and created an admin user. Then, they connected our MLab and MongoDB using via Mongo shell. 
+
+* Implement DB, seed data for development (Andrea McGovern)
+Team member logged into the database and started to insert dummy JSON data. Utilized Elastic File Share.
+
+[User Interface](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html)  
+
+* Complete design of the user interface (Olivia Apperson)
+Task 1: Reviewed past screen designs and look for improvements
+
+
+Task 2: Created home page, upload file page, search for json files, account information page, modify document page, login page, register page, and logout page using Themefisher Bootstrap templates. Screen designs are included in modified user requirements document or can be found live [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html).
+
+* Complete design of the information architecture (Olivia Apperson)
+Task 1: Developed flow of information to implement on webpages (which clicks led to where)
+
+Task 2: Connected webpages to flow as designed. Information architecture can be found by navigating through the pages [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html). 
+
+Testing and Documentation
 
 * User Acceptance Test  
 Created google documents for user acceptance cases, test to insert files, update files and delete files.   
 
-* Markdown File  
-Created a markdown file
+
 
 ## Sprint 2
 ## Sprint 3
