@@ -121,6 +121,9 @@ Branches-Students created their own branches for this Sprint. Branches are denot
 Meeting-November 7th, 2016
 All members attended meeting starting at 4pm and ending 10pm. Met to discuss individual progress and work together to complete other tasks. Discussed Sprint goals to ensure all parts were covered. Also worked on revising Sprint 1 for redo. These tasks determined to complete in Sprint 2 were divided amongst team members and will be explained below. 
 
+Tag-Up Meeting-November 10th 2016
+All members attended meeting starting at 6pm and ending at 9pm. Finalized changes and updates for Sprint 2. Continued working to improve Sprint 1 content.
+
 General
 
 * [Sprint Documentation] () 
@@ -131,6 +134,33 @@ Database
 Leads: Teddy Ivanov and Andrea McGovern
 * Students worked together to create insert, delete, and update commands into the database and use in php scripts. These can be found here:
 
+User Interface
+  
+  Stub-calls for all interactive elements on UI can be found here:
+  Lead: Soya Ouk Co: Olivia Apperson
+  These include:
+    * Registration
+    * Files
+    
+   Begin UI Elements; Website can be found here with UI:
+   Lead: Olivia Apperson Co: Soya Ouk
+   Pages Include:
+   * Login
+   * Register
+   * Edit File
+   * Search File
+   * Upload File
+   * Landing Page
+
+Other
+
+  Management of users/roles (User Accounts)
+  Lead: Maggie Li Co: Teddy Ivanov
+  INFO GOES HERE
+  
+Testing and Documenation 
+
+  Link to Sprint 1 and 2 is at the top of this page
 
 ## Sprint 3
 ## Sprint 4
