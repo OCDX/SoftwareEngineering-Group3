@@ -18,6 +18,8 @@ Xinyi Li
 * [Version 2] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsAnalysis.docx%20(1).pdf)
 
 * [Sprint 1 Version 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsAnalysis_sprint1.docx.pdf)
+
+* [Sprint 2] ()
   
 Develop a full requirements analysis (“REQS”) for the semester.  
 1. Table of Contents  
@@ -114,5 +116,21 @@ Backlog: Entering of dummy data. MangoDB is difficult to implement with File sto
 
 
 ## Sprint 2
+Branches-Students created their own branches for this Sprint. Branches are denoted as pawprint_Sprint2.
+
+Meeting-November 7th, 2016
+All members attended meeting starting at 4pm and ending 10pm. Met to discuss individual progress and work together to complete other tasks. Discussed Sprint goals to ensure all parts were covered. Also worked on revising Sprint 1 for redo. These tasks determined to complete in Sprint 2 were divided amongst team members and will be explained below. 
+
+General
+
+* [Sprint Documentation] () 
+Lead: Olivia Apperson Co: Maggie Li
+* Students worked to provide accurate and thorough documentation for Sprint 2. 
+
+Database
+Leads: Teddy Ivanov and Andrea McGovern
+* Students worked together to create insert, delete, and update commands into the database and use in php scripts. These can be found here:
+
+
 ## Sprint 3
 ## Sprint 4
