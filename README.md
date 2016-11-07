@@ -116,31 +116,31 @@ Backlog: Entering of dummy data. MangoDB is difficult to implement with File sto
 
 
 ## Sprint 2
-Branches-Students created their own branches for this Sprint. Branches are denoted as pawprint_Sprint2.
+*Branches*-Students created their own branches for this Sprint. Branches are denoted as pawprint_Sprint2.
 
-Meeting-November 7th, 2016
+*Meeting*-November 7th, 2016
 All members attended meeting starting at 4pm and ending 10pm. Met to discuss individual progress and work together to complete other tasks. Discussed Sprint goals to ensure all parts were covered. Also worked on revising Sprint 1 for redo. These tasks determined to complete in Sprint 2 were divided amongst team members and will be explained below. 
 
-Tag-Up Meeting-November 10th 2016
+*Tag-Up Meeting*-November 10th 2016
 All members attended meeting starting at 6pm and ending at 9pm. Finalized changes and updates for Sprint 2. Continued working to improve Sprint 1 content.
 
-General
+*General*
 
 * [Sprint Documentation] () 
 Lead: Olivia Apperson Co: Maggie Li
 * Students worked to provide accurate and thorough documentation for Sprint 2. 
 
-Database
+*Database*
 Leads: Teddy Ivanov and Andrea McGovern
 * Students worked together to create insert, delete, and update commands into the database and use in php scripts. These can be found here:
 
-User Interface
+*User Interface*
   
   Stub-calls for all interactive elements on UI can be found here:
   Lead: Soya Ouk Co: Olivia Apperson
   These include:
-    * Registration
-    * Files
+  * Registration
+  * Files
     
    Begin UI Elements; Website can be found here with UI:
    Lead: Olivia Apperson Co: Soya Ouk
@@ -152,13 +152,14 @@ User Interface
    * Upload File
    * Landing Page
 
-Other
+*Other*
 
   Management of users/roles (User Accounts)
   Lead: Maggie Li Co: Teddy Ivanov
-  INFO GOES HERE
+  USER: INFO GOES HERE
+  ADMIN: INFO GOES HERE
   
-Testing and Documenation 
+*Testing and Documenation* 
 
   Link to Sprint 1 and 2 is at the top of this page
 
