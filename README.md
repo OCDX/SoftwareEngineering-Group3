@@ -143,6 +143,7 @@ Leads: Teddy Ivanov and Andrea McGovern
   * Files
     
    Begin UI Elements; Website can be found here with UI: [website](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html)
+   
    Lead: Olivia Apperson Co: Soya Ouk
    Pages Include:
    * Login
