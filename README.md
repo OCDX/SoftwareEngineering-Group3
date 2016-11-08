@@ -136,7 +136,8 @@ Leads: Teddy Ivanov and Andrea McGovern
 
 ####User Interface
   
-  Stub-calls for all interactive elements on UI can be found here:
+  Stub-calls for all interactive elements on UI can be found here:[Stub Calls] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/subcalls.js)
+  
   Lead: Soya Ouk Co: Olivia Apperson
   These include:
   * Registration
