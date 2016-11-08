@@ -164,5 +164,8 @@ Leads: Teddy Ivanov and Andrea McGovern
 
   Link to Sprint 1 and 2 is at the top of this page
 
+####Unfinished Tasks
+####Log
+
 ## Sprint 3
 ## Sprint 4
