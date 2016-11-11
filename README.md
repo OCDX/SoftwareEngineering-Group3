@@ -137,6 +137,8 @@ Leads: Teddy Ivanov and Andrea McGovern
 * We had to start over from scratch, and create a new ubuntu instance on AWS becasue php 7 wasnt compatible with Mongodb. It is also easier to debug on a linux server rather than a Mocrosoft one.
 * We met with Jeremy during his office hours to set up the new service. He helped us download php 5, mongodb driver, and filezilla.
 * We then continued working on our own to download Apache and figured out how to access the root folder with the correct permissions to host all of our files on the instance.
+* Separate Directory found [here] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/tree/master/DML)
+
 
 ####User Interface
   
@@ -147,7 +149,7 @@ Leads: Teddy Ivanov and Andrea McGovern
   * Registration
   * Files
     
-   Begin UI Elements; Website can be found here with UI: [website](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html)
+   Begin UI Elements; Website can be found here with UI: [website](http://ec2-35-163-197-29.us-west-2.compute.amazonaws.com/index.html)
    
    Lead: Olivia Apperson Co: Soya Ouk
    Pages Include:
@@ -170,7 +172,19 @@ Leads: Teddy Ivanov and Andrea McGovern
   Link to Sprint 1 and 2 is at the top of this page
 
 ####Unfinished Tasks
+
+* Further additions to the database will be needed but current status is on par with Sprint 2
+* Further modifications to the UI will be needed but current status is on par with Sprint 2
+
 ####Log
+
+* Updated Webpages
+* Switched to Ubuntu server
+* Updated Test Cases 
+* Updated Documentation
+* Added user/admin roles
+* Added stub-calls
+
 
 
 ## REVISIONS FROM SPRINT 1
