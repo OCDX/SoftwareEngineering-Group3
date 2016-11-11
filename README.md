@@ -163,5 +163,21 @@ Leads: Teddy Ivanov and Andrea McGovern
 
   Link to Sprint 1 and 2 is at the top of this page
 
+## REVISIONS FROM SPRINT 1
+
+General 
+•	Link to Github root included in submission
+•	Test cases now included in Sprint 2 document
+
+Database/UI
+•	ERD revised and included in Sprint 2 document
+•	Information architecture (flow) is included in Sprint 2 document
+
+Testing 
+•	Revised Test cases included in Sprint 2 document
+
+•	Github links with pawprints now available
+
+
 ## Sprint 3
 ## Sprint 4
