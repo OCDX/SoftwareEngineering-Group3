@@ -164,8 +164,20 @@ Leads: Teddy Ivanov and Andrea McGovern
 
 Management of users/roles (User Accounts)
 * Lead: Maggie Li Co: Teddy Ivanov
-* USER: INFO GOES HERE
-* ADMIN: INFO GOES HERE
+* Researcher/User:
+    * Logging in and out of the system 
+    * Uploading metadata files to be stored in the database 
+    * Search metadata files through key words
+    * Download own files for use
+    * Edit own metadata files
+    * Delete own metadata files
+* Administrators:
+    * Logging in and out of the system
+    * Edit metadata files by all users
+    * Delete metadata files by all users
+    * Search files through key words
+    * Add/delete users to the system
+
   
 ####Testing and Documenation
 
