@@ -132,7 +132,11 @@ Lead: Olivia Apperson Co: Maggie Li
 
 ####Database
 Leads: Teddy Ivanov and Andrea McGovern
-* Students worked together to create insert, delete, and update commands into the database and use in php scripts. These can be found here:
+* We worked together to create insert, delete, and update commands into the database and use in php scripts. These can be found in the DML folder above. 
+* We met on Monday from 4-6, Wednesday from 4-6:30, and Thursday from 4-8. 
+* We had to start over from scratch, and create a new ubuntu instance on AWS becasue php 7 wasnt compatible with Mongodb. It is also easier to debug on a linux server rather than a Mocrosoft one.
+* We met with Jeremy during his office hours to set up the new service. He helped us download php 5, mongodb driver, and filezilla.
+* We then continued working on our own to download Apache and figured out how to access the root folder with the correct permissions to host all of our files on the instance.
 
 ####User Interface
   
