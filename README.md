@@ -162,10 +162,10 @@ Leads: Teddy Ivanov and Andrea McGovern
 
 ####Other
 
-  Management of users/roles (User Accounts)
-  Lead: Maggie Li Co: Teddy Ivanov
-  USER: INFO GOES HERE
-  ADMIN: INFO GOES HERE
+Management of users/roles (User Accounts)
+* Lead: Maggie Li Co: Teddy Ivanov
+* USER: INFO GOES HERE
+* ADMIN: INFO GOES HERE
   
 ####Testing and Documenation
 
@@ -190,16 +190,16 @@ Leads: Teddy Ivanov and Andrea McGovern
 ## REVISIONS FROM SPRINT 1
 
 General 
-•	Link to Github root included in submission
-•	Test cases now included in Sprint 2 document
+* Link to Github root included in submission
+* Test cases now included in Sprint 2 document
 
 Database/UI
-•	ERD revised and included in Sprint 2 document
-•	Information architecture (flow) is included in Sprint 2 document
+* ERD revised and included in Sprint 2 document
+* Information architecture (flow) is included in Sprint 2 document
 
 Testing 
-•	Revised Test cases included in Sprint 2 document
+* Revised Test cases included in Sprint 2 document
 
-•	Github links with pawprints now available
+* Github links with pawprints now available
 ## Sprint 3
 ## Sprint 4
