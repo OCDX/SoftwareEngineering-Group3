@@ -210,7 +210,7 @@ General
 
 Database/UI
 * ERD revised and included in Sprint 2 document
-* Information architecture (flow) is included in Sprint 2 document
+* Information architecture (flow) is included in Sprint 2 document and [here] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/testing_sprint2.pdf)
 
 Testing 
 * Revised Test cases included in Sprint 2 document
