@@ -18,6 +18,8 @@ Xinyi Li
 * [Version 2] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsAnalysis.docx%20(1).pdf)
 
 * [Sprint 1 Version 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsAnalysis_sprint1.docx.pdf)
+
+* [Sprint 2] ()
   
 Develop a full requirements analysis (“REQS”) for the semester.  
 1. Table of Contents  
@@ -114,5 +116,104 @@ Backlog: Entering of dummy data. MangoDB is difficult to implement with File sto
 
 
 ## Sprint 2
+####Branches-Students created their own branches for this Sprint. Branches are denoted as pawprint_Sprint2.
+
+####Meeting-November 7th, 2016
+All members attended meeting starting at 4pm and ending 10pm. Met to discuss individual progress and work together to complete other tasks. Discussed Sprint goals to ensure all parts were covered. Also worked on revising Sprint 1 for redo. These tasks determined to complete in Sprint 2 were divided amongst team members and will be explained below. 
+
+####Tag-Up Meeting-November 10th 2016
+All members attended meeting starting at 6pm and ending at 9pm. Finalized changes and updates for Sprint 2. Continued working to improve Sprint 1 content.
+
+####General
+
+* [Sprint Documentation] () 
+Lead: Olivia Apperson Co: Maggie Li
+* Students worked to provide accurate and thorough documentation for Sprint 2. 
+
+####Database
+Leads: Teddy Ivanov and Andrea McGovern
+* We worked together to create insert, delete, and update commands into the database and use in php scripts. These can be found in the DML folder above. 
+* We met on Monday from 4-6, Wednesday from 4-6:30, and Thursday from 4-8. 
+* We had to start over from scratch, and create a new ubuntu instance on AWS becasue php 7 wasnt compatible with Mongodb. It is also easier to debug on a linux server rather than a Mocrosoft one.
+* We met with Jeremy during his office hours to set up the new service. He helped us download php 5, mongodb driver, and filezilla.
+* We then continued working on our own to download Apache and figured out how to access the root folder with the correct permissions to host all of our files on the instance. Firebase alowsyou to store JSON files as well, but instead of php uses JavaScript. It allows to easily be able to ensure that a user is logged in cross site.  
+* We met again on Friday from 2 - 8, and decided to change from a MongoDB to a Firebase database, becasuse we thought it would be easier to handle the login. Firebase is a javascript 
+* Separate Directory found [here] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/tree/master/DML)
+
+
+####User Interface
+  
+  Stub-calls for all interactive elements on UI can be found here:[Stub Calls] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/subcalls.js)
+  
+  Lead: Soya Ouk Co: Olivia Apperson
+  These include:
+  * Registration
+  * Files
+    
+   Begin UI Elements; Website can be found here with UI: [website](http://ec2-35-163-197-29.us-west-2.compute.amazonaws.com/index.html)
+   
+   Lead: Olivia Apperson Co: Soya Ouk
+   Pages Include:
+   * Login
+   * Register
+   * Edit File
+   * Search File
+   * Upload File
+   * Landing Page
+
+####Other
+
+Management of users/roles (User Accounts)
+* Lead: Maggie Li Co: Teddy Ivanov
+* Researcher/User:
+    * Logging in and out of the system 
+    * Uploading metadata files to be stored in the database 
+    * Search metadata files through key words
+    * Download own files for use
+    * Edit own metadata files
+    * Delete own metadata files
+* Administrators:
+    * Logging in and out of the system
+    * Edit metadata files by all users
+    * Delete metadata files by all users
+    * Search files through key words
+    * Add/delete users to the system
+
+  
+####Testing and Documenation
+
+  Link to Sprint 1 and 2 is at the top of this page
+
+####Unfinished Tasks
+
+* Further additions to the database will be needed but current status is on par with Sprint 2
+* Further modifications and additions to the UI will be needed but current status is on par with Sprint 2
+* Integration tests may need improvements 
+
+####Log
+
+* Updated Webpages
+* Switched to Ubuntu server
+* Updated Test Cases 
+* Updated Documentation
+* Added user/admin roles
+* Added stub-calls
+
+
+
+## REVISIONS FROM SPRINT 1
+
+General 
+* Link to Github root included in submission
+* Test cases now included in Sprint 2 document
+
+Database/UI
+* ERD revised and included in Sprint 2 document
+* Information architecture (flow) is included in Sprint 2 document
+
+Testing 
+* Revised Test cases included in Sprint 2 document
+
+* Github links with pawprints now available
 ## Sprint 3
 ## Sprint 4
