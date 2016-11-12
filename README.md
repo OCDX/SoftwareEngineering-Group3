@@ -136,8 +136,8 @@ Leads: Teddy Ivanov and Andrea McGovern
 * We met on Monday from 4-6, Wednesday from 4-6:30, and Thursday from 4-8. 
 * We had to start over from scratch, and create a new ubuntu instance on AWS becasue php 7 wasnt compatible with Mongodb. It is also easier to debug on a linux server rather than a Mocrosoft one.
 * We met with Jeremy during his office hours to set up the new service. He helped us download php 5, mongodb driver, and filezilla.
-* We then continued working on our own to download Apache and figured out how to access the root folder with the correct permissions to host all of our files on the instance. Firebase alowsyou to store JSON files as well, but instead of php uses JavaScript. It allows to easily be able to ensure that a user is logged in cross site.  
-* We met again on Friday from 2 - 8, and decided to change from a MongoDB to a Firebase database, becasuse we thought it would be easier to handle the login. Firebase is a javascript 
+* We then continued working on our own to download Apache and figured out how to access the root folder with the correct permissions to host all of our files on the instance. Firebase allows you to store JSON files as well, but instead of using php we chose JavaScript. It allows to easily be able to ensure that a user is logged in cross site.  
+* We met again on Friday from 2 - 8, and decided to change from a MongoDB to a Firebase database, becasuse we thought it would be easier to handle the login. Firebase is a NoSQL Json database that allows us to host our web app and helps maintain state across the domain. 
 * Separate Directory found [here] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/tree/master/DML)
 
 
