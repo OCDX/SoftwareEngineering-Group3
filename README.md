@@ -187,7 +187,8 @@ Management of users/roles (User Accounts)
 ####Unfinished Tasks
 
 * Further additions to the database will be needed but current status is on par with Sprint 2
-* Further modifications to the UI will be needed but current status is on par with Sprint 2
+* Further modifications and additions to the UI will be needed but current status is on par with Sprint 2
+* Integration tests may need improvements 
 
 ####Log
 
