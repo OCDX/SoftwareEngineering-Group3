@@ -139,6 +139,7 @@ Leads: Teddy Ivanov and Andrea McGovern
 * We then continued working on our own to download Apache and figured out how to access the root folder with the correct permissions to host all of our files on the instance. Firebase allows you to store JSON files as well, but instead of using php we chose JavaScript. It allows to easily be able to ensure that a user is logged in cross site.  
 * We met again on Friday from 2 - 8, and decided to change from a MongoDB to a Firebase database, becasuse we thought it would be easier to handle the login. Firebase is a NoSQL Json database that allows us to host our web app and helps maintain state across the domain. 
 * Separate Directory found [here] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/tree/master/DML)
+* Website can be found here with UI: [website](http://ec2-35-163-197-29.us-west-2.compute.amazonaws.com/index.html)
 
 
 ####User Interface
