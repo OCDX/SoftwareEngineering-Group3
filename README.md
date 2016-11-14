@@ -246,7 +246,7 @@ Deploy to Group Account???
 ####Testing
 
 * Description of user tests
-* Edit cases
+* Edge cases
 
 ####User Documentation
 
