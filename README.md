@@ -20,6 +20,8 @@ Xinyi Li
 * [Sprint 1 Version 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsAnalysis_sprint1.docx.pdf)
 
 * [Sprint 2] ()
+
+* [Sprint 3] ()
   
 Develop a full requirements analysis (“REQS”) for the semester.  
 1. Table of Contents  
@@ -217,4 +219,52 @@ Testing
 
 * Github links with pawprints now available
 ## Sprint 3
+
+####Branches
+Students created new branches (pawprint_Sprint3) to commit and merge with master for this sprint 
+
+####Meetings
+* Met November 14 at 4pm to 8pm to work decide responsibilities and start on tasks.
+
+####General
+* Sprint documentation can be found [here] () and within this Sprint 3 Markdown
+
+Deploy to Group Account???
+
+####User Interface
+* Pages were updated to correctly connect to database and to check if links were still in working condition
+* The following pages were added/edited for additional features:
+  * Account.html --Changed fields of user information and correctly linked Edit button
+  * EditAccount.html --Added this page to allow user to edit personal information
+  * Modify.html --Added a comments section for more user input
+  
+####Other
+* Temporal Logic??
+
+* Data Visualizations??
+
+####Testing
+
+* Description of user tests
+* Edge cases
+
+####User Documentation
+
+User Documentation was structured and started. The following sections were added:
+* Introduction (Olivia Apperson)
+* Software and Applications needed (Andrea McGovern)
+* Deployment (Andrea McGovern and Teddy Ivanov)
+* End User Manual (Olivia Apperson)
+
+###Improvements to Sprint 2
+
+8 points were lost in Sprint Documentation
+* Sprint 2 added to Requirements and Design Documentation
+* Broken links, including Stub Calls and DML, fixed
+* Link to Commits added
+
+2 points lost for Testing
+* User Acceptance testing not included in Regression testing
+* Verification/Validation revised
+
 ## Sprint 4
