@@ -148,7 +148,7 @@ Leads: Teddy Ivanov and Andrea McGovern
 
 ####User Interface
   
-  Stub-calls for all interactive elements on UI can be found here:[Stub Calls](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/subcalls.js)
+  Stub-calls for all interactive elements on UI can be found here:[Stub Calls](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint_2/subcalls.js)
   
   Lead: Soya Ouk Co: Olivia Apperson
   These include:
@@ -229,7 +229,7 @@ Students created new branches (pawprint_Sprint3) to commit and merge with master
 * Met November 14 at 4pm to 8pm to work decide responsibilities and start on tasks.
 
 ####General
-* Sprint documentation can be found [here]() and within this Sprint 3 Markdown
+* Sprint documentation can be found [here](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsDocumentationsSprint3.docx) and within this Sprint 3 Markdown
 
 Deploy to Group Account???
 
@@ -243,9 +243,16 @@ Deploy to Group Account???
 ####Other
 * [Temporal Logic](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Temporal%20Logic%20of%20UI.docx)
 
-* Data Visualizations??
+* Data Visualizations
+[Files Uploaded Into Firebase](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/images/FilesUploadedIntoDatabase.png)
+[Inserted Info to Firebase](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/images/InsertedInfoToDatabase.png)
+[Overall User Usage of Firebase](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/images/UsageOfDatabase.png)
+[Users Authenication](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/images/UsersAuthenication.png)
 
-####Testing
+
+####Testing and Documentation
+
+[Test Case Version 4](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Testing_sprint3.pdf) 
 
 * Description of user tests
 * Edge cases
