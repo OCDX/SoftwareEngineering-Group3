@@ -15,7 +15,7 @@ Xinyi Li
 
 * [Version 1](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint_1/RequirementsAnalysisV1.docx.pdf)  
 
-* [Version 2] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsAnalysis.docx%20(1).pdf)
+* [Version 2] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint_1/RequirementsAnalysisV2.docx.pdf)
 
 * [Sprint 1 Version 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsAnalysis_sprint1.docx.pdf)
 
