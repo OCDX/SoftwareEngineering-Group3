@@ -94,7 +94,7 @@ and
 
 Testing and Documentation
 
-[All Test Cases](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Testing--Documentation%20(1).pdf) 
+[Test Case Version 1](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint_1/TestingVersion1.pdf) 
 
 * User Acceptance Test (Soya Ouk)  
   Task 1: Created google documents for user acceptance cases
