@@ -21,7 +21,7 @@ Xinyi Li
 
 * [Sprint 2] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint_2/Sprint_2_FinalProject_MetaDrop.pdf)
 
-* [Sprint 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/MetaDrop%20Sprint%203.docx)
+* [Sprint 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsDocumentationsSprint3.docx)
   
 Develop a full requirements analysis (“REQS”) for the semester.  
 1. Table of Contents  
@@ -130,7 +130,7 @@ All members attended meeting starting at 6pm and ending at 9pm. Finalized change
 
 ####General
 
-* [Sprint Documentation] () 
+* [Sprint Documentation](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint_2/Sprint_2_FinalProject_MetaDrop.pdf) 
 Lead: Olivia Apperson Co: Xinyi Li
 * Students worked to provide accurate and thorough documentation for Sprint 2. 
 
@@ -227,26 +227,34 @@ Students created new branches (pawprint_Sprint3) to commit and merge with master
 
 ####Meetings
 * Met November 14 at 4pm to 8pm to work decide responsibilities and start on tasks.
+* Met November 17th in class to work on finishing sprint 3 requirements.
 
 ####General
 * Sprint documentation can be found [here](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsDocumentationsSprint3.docx) and within this Sprint 3 Markdown
 
-Deploy to Group Account???
+Deploy to Group Account
+* Finally, Uploaded all our files to github and reorginzed them in a efficient manor. 
 
-####User Interface
+####User Interface (Beware of using google chrome and firefox, it stores passwords and causes our login and logout to glitch, safari works well with our page. It will need to be fixed in the future.)
 * Pages were updated to correctly connect to database and to check if links were still in working condition
 * The following pages were added/edited for additional features:
   * Account.html --Changed fields of user information and correctly linked Edit button
   * EditAccount.html --Added this page to allow user to edit personal information
   * Modify.html --Added a comments section for more user input
+  * search.html -- Updated to go to correct page.
+  * SearchResults.html -- Created a results page for editing and needs more updating.
+  * app3.js --Created Javascript file to handle uploading all files to our firebase data. Doesn't display anything on website but stores them into the database. Needs more tuning and polishing.
   
 ####Other
 * [Temporal Logic](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Temporal%20Logic%20of%20UI.docx)
 
-* Data Visualizations
+* Added Data Visualizations images for descriptions on how firebase works with our data.
 [Files Uploaded Into Firebase](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/images/FilesUploadedIntoDatabase.png)
+
 [Inserted Info to Firebase](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/images/InsertedInfoToDatabase.png)
+
 [Overall User Usage of Firebase](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/images/UsageOfDatabase.png)
+
 [Users Authenication](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/images/UsersAuthenication.png)
 
 
@@ -267,14 +275,15 @@ User Documentation was structured and started. The following sections were added
 
 ####Database Update
 
-* Met on November 14 from 7 to 9 to work on finishing the insert, update, delete, and search quieries.
+* Met on November 14 from 7 to 9 to work on finishing the insert, update, and search quieries.
 * Also worked on file uploads using a Google Cloud Storage Bucket to hold the JSON files in the database.
+* Worked Novemeber 17th on fixing errors in upload and started working on delete.
 
 ###Improvements to Sprint 2
 
 8 points were lost in Sprint Documentation
 * Sprint 2 added to Requirements and Design Documentation
-* Broken links, including Stub Calls and DML, fixed
+* Fixed all Broken links, including Stub Calls and DML, fixed
 * Link to Commits added
 
 2 points lost for Testing
