@@ -17,7 +17,7 @@ Xinyi Li
 
 * [Version 2] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint_1/RequirementsAnalysisV2.docx.pdf)
 
-* [Sprint 1 Version 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsAnalysis_sprint1.docx.pdf)
+* [Sprint 1 Version 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint_1/RequirementsAnalysisV3.docx.pdf)
 
 * [Sprint 2] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Final%20Project—Metadrop-SPRINT-2.pdf)
 
