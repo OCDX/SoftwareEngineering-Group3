@@ -58,7 +58,8 @@ General
 Team members developed Sprint documentation in Markdown on GitHub. They outlined the tasks, milestones, and other relevant data needed as well as linked updated documents. 
 
 * Complete setup of Deployment Environment (MangoDB: Teddy Ivanov, AWS: Andrea McGovern)
-Team members worked together to create a database on MangoDB and utilized AWS to host the website, which is now accessible [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/).  
+Team members worked together to create a database on MangoDB and utilized AWS to host the website, which is now accessible [here](http://ec2-35-163-197-29.us-west-2.compute.amazonaws.com/).
+
 
 * Organize GitHub Repo (Lead: Teddy Ivanov, Co: Soya Ouk)
 Team members worked together to create GitHub repo and supply any necessary documentation and code here.
@@ -89,7 +90,7 @@ and
   Task 1: Developed flow of information to implement on webpages (which clicks led to where)
 
   Task 2: Connected webpages to flow as designed. Information architecture can be found by navigating through the pages 
-  [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/). 
+  [here](http://ec2-35-163-197-29.us-west-2.compute.amazonaws.com/). 
 
 Testing and Documentation
 
@@ -213,7 +214,7 @@ General
 
 Database/UI
 * ERD revised and included in Sprint 2 document
-* Information architecture (flow) is included in Sprint 2 document and [here](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Final%20Project—Metadrop-SPRINT-2.pdf)
+* Information architecture (flow) is included in Sprint 2 document and [here](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint_2/Sprint_2_FinalProject_MetaDrop.pdf)
 
 Testing 
 * Revised Test cases included in Sprint 2 document
@@ -228,7 +229,7 @@ Students created new branches (pawprint_Sprint3) to commit and merge with master
 * Met November 14 at 4pm to 8pm to work decide responsibilities and start on tasks.
 
 ####General
-* Sprint documentation can be found [here](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint_2/Sprint_2_FinalProject_MetaDrop.pdf) and within this Sprint 3 Markdown
+* Sprint documentation can be found [here]() and within this Sprint 3 Markdown
 
 Deploy to Group Account???
 
