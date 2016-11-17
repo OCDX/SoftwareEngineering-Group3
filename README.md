@@ -19,7 +19,7 @@ Xinyi Li
 
 * [Sprint 1 Version 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint_1/RequirementsAnalysisV3.docx.pdf)
 
-* [Sprint 2] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Final%20Project—Metadrop-SPRINT-2.pdf)
+* [Sprint 2] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint_2/Sprint_2_FinalProject_MetaDrop.pdf)
 
 * [Sprint 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/MetaDrop%20Sprint%203.docx)
   
@@ -147,7 +147,7 @@ Leads: Teddy Ivanov and Andrea McGovern
 
 ####User Interface
   
-  Stub-calls for all interactive elements on UI can be found here:[Stub Calls] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/subcalls.js)
+  Stub-calls for all interactive elements on UI can be found here:[Stub Calls](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/subcalls.js)
   
   Lead: Soya Ouk Co: Olivia Apperson
   These include:
@@ -213,7 +213,7 @@ General
 
 Database/UI
 * ERD revised and included in Sprint 2 document
-* Information architecture (flow) is included in Sprint 2 document and [here] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Final%20Project—Metadrop-SPRINT-2.pdf)
+* Information architecture (flow) is included in Sprint 2 document and [here](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Final%20Project—Metadrop-SPRINT-2.pdf)
 
 Testing 
 * Revised Test cases included in Sprint 2 document
@@ -228,7 +228,7 @@ Students created new branches (pawprint_Sprint3) to commit and merge with master
 * Met November 14 at 4pm to 8pm to work decide responsibilities and start on tasks.
 
 ####General
-* Sprint documentation can be found [here] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/MetaDrop%20Sprint%203.docx) and within this Sprint 3 Markdown
+* Sprint documentation can be found [here](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint_2/Sprint_2_FinalProject_MetaDrop.pdf) and within this Sprint 3 Markdown
 
 Deploy to Group Account???
 
