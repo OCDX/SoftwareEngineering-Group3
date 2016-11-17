@@ -58,7 +58,7 @@ General
 Team members developed Sprint documentation in Markdown on GitHub. They outlined the tasks, milestones, and other relevant data needed as well as linked updated documents. 
 
 * Complete setup of Deployment Environment (MangoDB: Teddy Ivanov, AWS: Andrea McGovern)
-Team members worked together to create a database on MangoDB and utilized AWS to host the website, which is now accessible [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html).  
+Team members worked together to create a database on MangoDB and utilized AWS to host the website, which is now accessible [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/).  
 
 * Organize GitHub Repo (Lead: Teddy Ivanov, Co: Soya Ouk)
 Team members worked together to create GitHub repo and supply any necessary documentation and code here.
@@ -78,17 +78,18 @@ Team member logged into the Mongo Database and started to insert dummy JSON data
 and
 [Dummy data](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Screen%20Shot%202016-10-30%20at%2010.45.07%20PM.png)
 
-[User Interface](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html)  
+[User Interface](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/)  
 
 * Complete design of the user interface (Olivia Apperson)
   Task 1: Reviewed past screen designs and look for improvements
 
-  Task 2: Created home page, upload file page, search for json files, account information page, modify document page, login page, register page, and logout page using Themefisher Bootstrap templates. Screen designs are included in modified user requirements document or can be found live [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html).
+  Task 2: Created home page, upload file page, search for json files, account information page, modify document page, login page, register page, and logout page using Themefisher Bootstrap templates. Screen designs are included in modified user requirements document or can be found live [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/).
 
 * Complete design of the information architecture (Olivia Apperson)
   Task 1: Developed flow of information to implement on webpages (which clicks led to where)
 
-  Task 2: Connected webpages to flow as designed. Information architecture can be found by navigating through the pages [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/index.html). 
+  Task 2: Connected webpages to flow as designed. Information architecture can be found by navigating through the pages 
+  [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/). 
 
 Testing and Documentation
 
@@ -141,7 +142,7 @@ Leads: Teddy Ivanov and Andrea McGovern
 * We then continued working on our own to download Apache and figured out how to access the root folder with the correct permissions to host all of our files on the instance. Firebase allows you to store JSON files as well, but instead of using php we chose JavaScript. It allows to easily be able to ensure that a user is logged in cross site.  
 * We met again on Friday from 2 - 8, and decided to change from a MongoDB to a Firebase database, becasuse we thought it would be easier to handle the login. Firebase is a NoSQL Json database that allows us to host our web app and helps maintain state across the domain. 
 * Separate Directory found [here] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/tree/master/DML)
-* Website can be found here with UI: [website](http://ec2-35-163-197-29.us-west-2.compute.amazonaws.com/index.html)
+* Website can be found here with UI: [website](http://ec2-35-163-197-29.us-west-2.compute.amazonaws.com/)
 
 
 ####User Interface
@@ -153,7 +154,7 @@ Leads: Teddy Ivanov and Andrea McGovern
   * Registration
   * Files
     
-   Begin UI Elements; Website can be found here with UI: [website](http://ec2-35-163-197-29.us-west-2.compute.amazonaws.com/index.html)
+   Begin UI Elements; Website can be found here with UI: [website](http://ec2-35-163-197-29.us-west-2.compute.amazonaws.com/)
    
    Lead: Olivia Apperson Co: Soya Ouk
    Pages Include:
