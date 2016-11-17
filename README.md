@@ -19,9 +19,9 @@ Xinyi Li
 
 * [Sprint 1 Version 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsAnalysis_sprint1.docx.pdf)
 
-* [Sprint 2] ()
+* [Sprint 2] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Final%20Project—Metadrop-SPRINT-2.pdf)
 
-* [Sprint 3] ()
+* [Sprint 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/MetaDrop%20Sprint%203.docx)
   
 Develop a full requirements analysis (“REQS”) for the semester.  
 1. Table of Contents  
@@ -129,7 +129,7 @@ All members attended meeting starting at 6pm and ending at 9pm. Finalized change
 ####General
 
 * [Sprint Documentation] () 
-Lead: Olivia Apperson Co: Maggie Li
+Lead: Olivia Apperson Co: Xinyi Li
 * Students worked to provide accurate and thorough documentation for Sprint 2. 
 
 ####Database
@@ -167,7 +167,7 @@ Leads: Teddy Ivanov and Andrea McGovern
 ####Other
 
 Management of users/roles (User Accounts)
-* Lead: Maggie Li Co: Teddy Ivanov
+* Lead: Xinyi Li Co: Teddy Ivanov
 * Researcher/User:
     * Logging in and out of the system 
     * Uploading metadata files to be stored in the database 
@@ -212,7 +212,7 @@ General
 
 Database/UI
 * ERD revised and included in Sprint 2 document
-* Information architecture (flow) is included in Sprint 2 document and [here] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/testing_sprint2.pdf)
+* Information architecture (flow) is included in Sprint 2 document and [here] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Final%20Project—Metadrop-SPRINT-2.pdf)
 
 Testing 
 * Revised Test cases included in Sprint 2 document
@@ -227,7 +227,7 @@ Students created new branches (pawprint_Sprint3) to commit and merge with master
 * Met November 14 at 4pm to 8pm to work decide responsibilities and start on tasks.
 
 ####General
-* Sprint documentation can be found [here] () and within this Sprint 3 Markdown
+* Sprint documentation can be found [here] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/MetaDrop%20Sprint%203.docx) and within this Sprint 3 Markdown
 
 Deploy to Group Account???
 
@@ -239,7 +239,7 @@ Deploy to Group Account???
   * Modify.html --Added a comments section for more user input
   
 ####Other
-* Temporal Logic??
+* [Temporal Logic](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Temporal%20Logic%20of%20UI.docx)
 
 * Data Visualizations??
 
