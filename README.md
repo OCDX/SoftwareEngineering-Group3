@@ -256,6 +256,11 @@ User Documentation was structured and started. The following sections were added
 * Deployment (Andrea McGovern and Teddy Ivanov)
 * End User Manual (Olivia Apperson)
 
+####Database Update
+
+* Met on November 14 from 7 to 9 to work on finishing the insert, update, delete, and search quieries.
+* Also worked on file uploads using a Google Cloud Storage Bucket to hold the JSON files in the database.
+
 ###Improvements to Sprint 2
 
 8 points were lost in Sprint Documentation
