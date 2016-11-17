@@ -13,7 +13,7 @@ Xinyi Li
 ## Requirement Analysis
 * [Google Drive] (https://docs.google.com/document/d/1MV1TERh4RiKYwcPS5TSN___B5Fp_3C-kzdJ5ykBqi1I/edit#) 
 
-* [Version 1](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsAnalysis.docx.pdf)  
+* [Version 1](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint_1/RequirementsAnalysisV1.docx.pdf)  
 
 * [Version 2] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsAnalysis.docx%20(1).pdf)
 
