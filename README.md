@@ -79,12 +79,12 @@ Team member logged into the Mongo Database and started to insert dummy JSON data
 and
 [Dummy data](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/images/MLabData.png)
 
-[User Interface](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/)  
+[User Interface](http://ec2-35-163-197-29.us-west-2.compute.amazonaws.com)  
 
 * Complete design of the user interface (Olivia Apperson)
   Task 1: Reviewed past screen designs and look for improvements
 
-  Task 2: Created home page, upload file page, search for json files, account information page, modify document page, login page, register page, and logout page using Themefisher Bootstrap templates. Screen designs are included in modified user requirements document or can be found live [here](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/).
+  Task 2: Created home page, upload file page, search for json files, account information page, modify document page, login page, register page, and logout page using Themefisher Bootstrap templates. Screen designs are included in modified user requirements document or can be found live [here](http://ec2-35-163-197-29.us-west-2.compute.amazonaws.com/).
 
 * Complete design of the information architecture (Olivia Apperson)
   Task 1: Developed flow of information to implement on webpages (which clicks led to where)
