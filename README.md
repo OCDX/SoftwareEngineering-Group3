@@ -291,3 +291,12 @@ User Documentation was structured and started. The following sections were added
 * Verification/Validation revised
 
 ## Sprint 4
+
+#### Deployment
+
+* 1. Create an Amazon Web Service Account (AWS)
+* 2. Create an EC2 instance of the Ubuntu Server 14.04 (this one is easier to debug issues with a MAC, and supports the Firebase database we choose to use)
+* 3. Then, use a file sharing system (we used both FileZilla and WinSCP) to host our website to the EC2 instance
+* 4. Next, set up the FireBase database by getting a FireBase account (you will need an email)
+* 5. Create a new project
+* 6. Change the Authentication by going under Authentication, choose the Sign-in method, and enable the Email/Password opption
