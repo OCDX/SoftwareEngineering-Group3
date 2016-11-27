@@ -22,6 +22,8 @@ Xinyi Li
 * [Sprint 2] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint_2/Sprint_2_FinalProject_MetaDrop.pdf)
 
 * [Sprint 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsDocumentationsSprint3.docx)
+
+* [Sprint 4]
   
 Develop a full requirements analysis (“REQS”) for the semester.  
 1. Table of Contents  
@@ -291,6 +293,32 @@ User Documentation was structured and started. The following sections were added
 * Verification/Validation revised
 
 ## Sprint 4
+
+####Meetings
+•	Collaborated over GroupMe application in order to coordinate jobs over Thanksgiving Break. All members attended.
+•	Met 11/27/16 from 1:30pm-6pm to work on and complete tasks for Sprint 4. All members attended.
+
+####General
+•	Sprint documentation is included here and was submitted on 11/28/16. It is also included in the Markdown page on Github. 
+•	Automated Script- confused on how this should be deployed. Deployment instructions are included in links later in this document.
+
+####User Interface
+•	SearchResults.html modified toward full functionality.
+•	Upload JavaScript file cleaned and made more robust for easy use and understanding.
+•	All pages now include scripts to make sure they are accessed only when user is registered and logged in.
+
+####Testing
+•	Tests elaborated from Sprint 1 and Sprint 3 can be found here.
+
+####Deployment Instructions
+•	User Documentation can be found here in the GitHub.
+•	Readme.MD includes deployment instructions. This can be found below.
+
+####Improvements From Sprint 3
+•	User documentation included
+•	Pages require login to be accessed
+•	Test cases improved for integration
+
 
 #### Deployment
 
