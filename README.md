@@ -325,6 +325,8 @@ User Documentation was structured and started. The following sections were added
 * Test cases improved for integration (showing in testing section).
 * Register now logs in users automatically (issue from before)
 * Error messages added to login/register page to inform user
+* Fixed code for login back button issue
+* Uploading now displays warning messages for wrong file types and uploads files.
 
 
 #### Deployment
