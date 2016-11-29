@@ -10,8 +10,20 @@
   };
   firebase.initializeApp(config);
 
-    //logout event
+  //TODO make if statement to check for user authentication. If not auth use window.location.href = 'index.html';
 
+  var user = firebase.auth().onAuthStateChanged(function(user) {
+  if (user) {
+    // User is signed in.
+  } else {
+    // No user is signed in.
+    window.location.href = 'index.html';
+  }
+});
+
+  console.log()
+
+    //logout event
     btnLogOut.addEventListener('click', e => {
         firebase.auth().signOut();
         window.location.href = 'index.html';

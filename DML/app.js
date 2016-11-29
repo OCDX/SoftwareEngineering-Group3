@@ -46,7 +46,7 @@
         var atpos = x.indexOf("@");
         var dotpos = x.lastIndexOf(".");
         if (atpos < 1 || dotpos < atpos + 2 || dotpos + 2 >= x.length) {
-            document.getElementById("userMessage").innerHTML = "Please enter a vaild email" + firebaseUser.email;
+            document.getElementById("userMessage").innerHTML = "Please enter a vaild email";
             return false;
         }
 
