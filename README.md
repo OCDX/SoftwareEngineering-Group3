@@ -312,7 +312,7 @@ User Documentation was structured and started. The following sections were added
 * All titles now uniformly Metadrop
 
 ####Testing
-* Tests elaborated from Sprint 1 and Sprint 3 can be found here.
+* Tests elaborated from Sprint 1 and Sprint 3 can be found [here](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/testcasesprint4.docx.pdf)
 
 ####Deployment Instructions
 * User Documentation can be found [here](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/METADROP-USER-MANUAL.docx%20(1).pdf) in the GitHub.
