@@ -310,6 +310,7 @@ User Documentation was structured and started. The following sections were added
 * Upload JavaScript file cleaned and made more robust for easy use and understanding.
 * All pages now include scripts to make sure they are accessed only when user is registered and logged in.
 * All titles now uniformly Metadrop
+* Added JSON only requirement for uploading documents. Popup now appears if document is accepted or not.
 
 ####Testing
 * Tests elaborated from Sprint 1 and Sprint 3 can be found [here](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/testcasesprint4.docx.pdf)
