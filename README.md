@@ -23,7 +23,7 @@ Xinyi Li
 
 * [Sprint 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsDocumentationsSprint3.docx)
 
-* [Sprint 4]
+* [Sprint 4] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint4Documentation.pdf)
   
 Develop a full requirements analysis (“REQS”) for the semester.  
 1. Table of Contents  
@@ -301,7 +301,7 @@ User Documentation was structured and started. The following sections were added
 
 
 ####General
-* Sprint documentation is included here and was submitted on 11/28/16. It is also included in the Markdown page on Github. 
+* Sprint documentation is included [here](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint4Documentation.pdf) and was submitted on 11/28/16. It is also included in the Markdown page on Github. 
 * Automated Script- confused on how this should be deployed. Deployment instructions are included later in this document.
 
 ####User Interface 
