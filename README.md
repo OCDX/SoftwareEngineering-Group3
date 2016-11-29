@@ -1,7 +1,7 @@
 # SoftwareEngineering-Group3
 Software engineering semester project.
 
-# ![Metadrop](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/images/logo2.png)
+# ![Metadrop](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/logo2.png)
 > As a team we are going to build an online infrastructure for computational social scientists, social scientist, and citizens that will facilitate and centralize our understanding of online human interaction. We will create a database that will allow metadata specification to store, share, describe, and analyze data sets. This will help solve the problem of not being able to easily access the metadata, and now scientist and citizens can easily access it via the internet.  
   
 ### Group 3:
@@ -23,7 +23,7 @@ Xinyi Li
 
 * [Sprint 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsDocumentationsSprint3.docx)
 
-* [Sprint 4]
+* [Sprint 4] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint4Documentation.pdf)
   
 Develop a full requirements analysis (“REQS”) for the semester.  
 1. Table of Contents  
@@ -295,36 +295,45 @@ User Documentation was structured and started. The following sections were added
 ## Sprint 4
 
 ####Meetings
-•	Collaborated over GroupMe application in order to coordinate jobs over Thanksgiving Break. All members attended.
-•	Met 11/27/16 from 1:30pm-6pm to work on and complete tasks for Sprint 4. All members attended.
+* Collaborated over GroupMe application in order to coordinate jobs over Thanksgiving Break. All members attended.
+* Met 11/27/16 from 1:30pm-6pm to work on and complete tasks for Sprint 4. All members attended.
+* Met 11/28/16 from 6pm to 10pm to work on completing tasks and modify code. All members attended.
+
 
 ####General
-•	Sprint documentation is included here and was submitted on 11/28/16. It is also included in the Markdown page on Github. 
-•	Automated Script- confused on how this should be deployed. Deployment instructions are included in links later in this document.
+* Sprint documentation is included [here](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint4Documentation.pdf) and was submitted on 11/28/16. It is also included in the Markdown page on Github. 
+* Automated Script- confused on how this should be deployed. Deployment instructions are included later in this document.
 
-####User Interface
-•	SearchResults.html modified toward full functionality.
-•	Upload JavaScript file cleaned and made more robust for easy use and understanding.
-•	All pages now include scripts to make sure they are accessed only when user is registered and logged in.
+####User Interface 
+* Website can be found [here](http://ec2-35-163-197-29.us-west-2.compute.amazonaws.com/)
+* SearchResults.html modified toward full functionality.
+* Upload JavaScript file cleaned and made more robust for easy use and understanding.
+* All pages now include scripts to make sure they are accessed only when user is registered and logged in.
+* All titles now uniformly Metadrop
+* Added JSON only requirement for uploading documents. Popup now appears if document is accepted or not.
 
 ####Testing
-•	Tests elaborated from Sprint 1 and Sprint 3 can be found here.
+* Tests elaborated from Sprint 1 and Sprint 3 can be found [here](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/testcasesprint4.docx.pdf)
 
 ####Deployment Instructions
-•	User Documentation can be found here in the GitHub.
-•	Readme.MD includes deployment instructions. This can be found below.
+* User Documentation can be found [here](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/METADROP-USER-MANUAL.docx%20(1).pdf) in the GitHub.
+* Readme.MD includes deployment instructions. This can be found below.
 
 ####Improvements From Sprint 3
-•	User documentation included
-•	Pages require login to be accessed
-•	Test cases improved for integration
+* User documentation included (shown above).
+* Pages require login to be accessed. Problem resolved. Can be shown by navigating website.
+* Test cases improved for integration (showing in testing section).
+* Register now logs in users automatically (issue from before)
+* Error messages added to login/register page to inform user
+* Fixed code for login back button issue
+* Uploading now displays warning messages for wrong file types and uploads files.
 
 
 #### Deployment
 
-* 1. Create an Amazon Web Service Account (AWS)
-* 2. Create an EC2 instance of the Ubuntu Server 14.04 (this one is easier to debug issues with a MAC, and supports the Firebase database we choose to use)
-* 3. Then, use a file sharing system (we used both FileZilla and WinSCP) to host our website to the EC2 instance
-* 4. Next, set up the FireBase database by getting a FireBase account (you will need an email)
-* 5. Create a new project
-* 6. Change the Authentication by going under Authentication, choose the Sign-in method, and enable the Email/Password opption
+1. Create an Amazon Web Service Account (AWS)
+2. Create an EC2 instance of the Ubuntu Server 14.04 (this one is easier to debug issues with a MAC, and supports the Firebase database we choose to use)
+3. Then, use a file sharing system (we used both FileZilla and WinSCP) to host our website to the EC2 instance
+4. Next, set up the FireBase database by getting a FireBase account (you will need an email)
+5. Create a new project
+6. Change the Authentication by going under Authentication, choose the Sign-in method, and enable the Email/Password opption
