@@ -15,6 +15,8 @@
 
   var uploadButton = document.getElementById('fileSubmit');
 
+  var database = firebase.database();
+
   var file;
 
     //logout event
@@ -25,21 +27,90 @@
 
 		file = e.target.files[0];
 
-		console.log(file.name);
+		var fileString = file.name;
+
+		var fileExt = fileString.split('.');
+
+		if(fileExt[1] != "json"){
+
+			toastr.warning('Incorrect File Format for File:' + file.name);
+		}
+
+		console.log(fileString);
+
+		//if()
+
+		//console.log(file.name);
 
 	});
 
 	uploadButton.addEventListener('click', e => {
 
+		//check if user folder exists
+		var user = firebase.auth().currentUser;
+
+		var userString = user.email;
+
+		var userName = userString.split('@');
+
+		//getting the username for the filepath
+		userName = userName[0];
+
 		//storage ref
 
 		var storageRef = firebase.storage().ref('manifests/' + file.name);
 
-		//upload file
-
 		var task = storageRef.put(file);
+		//should be checking for the file to exist in the sotrage before uploading it. TODO
 
+		storageRef.getDownloadURL().then(function(url) {
 
+			writeNewUserData(userName, $('#author').val(), $('#title').val(), url, file.name);
+
+			console.log("new instance created");
+
+			}).catch(function(error) {
+			  switch (error.code) {
+			    case 'storage/object_not_found':
+			      // File doesn't exist
+			      break;
+
+			    case 'storage/unauthorized':
+			      // User doesn't have permission to access the object
+			      break;
+
+			    case 'storage/canceled':
+			      // User canceled the upload
+			      break;
+
+			    case 'storage/unknown':
+			      // Unknown error occurred, inspect the server response
+			      break;
+			  }
+
+			//writeUserData(firebaseUser.email, $('#author').val(), $('#title').val(), )
+			});
+		
 	});
+
+	function writeNewUserData(userId, writer, uploadName, locationURL, fileName) {
+		console.log("in new");
+		var firebaseDBRef = firebase.database().ref('uploads/');
+		var newStoreRef = firebaseDBRef.push();
+  		newStoreRef.set({
+		    name: fileName,
+		    title: uploadName,
+		    author: writer,
+	    	file : locationURL
+		  });
+
+	  /*firebase.database().ref('uploads/' + userId + '/' +).set({
+	    title: name,
+	    author: writer,
+	    file : locationURL
+	  });*/
+	  // Display a success toast, with a title
+		toastr.success('Successfully uploaded ' + fileName);
+	}
 
 }());
