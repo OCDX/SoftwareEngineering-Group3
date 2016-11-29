@@ -1,7 +1,7 @@
 # SoftwareEngineering-Group3
 Software engineering semester project.
 
-# ![Metadrop](http://ec2-35-160-238-84.us-west-2.compute.amazonaws.com/final_project/images/logo2.png)
+# ![Metadrop](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/logo2.png)
 > As a team we are going to build an online infrastructure for computational social scientists, social scientist, and citizens that will facilitate and centralize our understanding of online human interaction. We will create a database that will allow metadata specification to store, share, describe, and analyze data sets. This will help solve the problem of not being able to easily access the metadata, and now scientist and citizens can easily access it via the internet.  
   
 ### Group 3:
