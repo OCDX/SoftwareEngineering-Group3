@@ -361,7 +361,7 @@ Tasks completed
   * You will need the credentials from the AWS Ubuntu instance to login to the instance through the file sharing system
   * Download our files from the DML folder on GitHub to your desktop
   * To be able to get all of our file to connect the your new Firebase database you will need to change the key at the top of file in app.js to your credentials that are located within Firebase here is a picture
-  # ![Firebase](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/logo2.png)
+  # ![Firebase](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/images/Firebase.JPG)
   * Drag and drop them from your desktop to the root folder of the EC2 intstance on the file sharing system
 3. Next, set up the FireBase database by creating a FireBase account (you will need a gmail email account)
   * Click 'Create New Project' on the main page
