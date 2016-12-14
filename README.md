@@ -360,7 +360,7 @@ Tasks completed
 2. Then, use a file sharing system (we used both FileZilla and WinSCP) to host our website files to the root folder of the EC2 instance these files are located on GitHub in the DML folder
   * You will need the credentials from the AWS Ubuntu instance to login to the instance through the file sharing system
   * Download our files from the DML folder on GitHub to your desktop
-  * To be able to get all of our file to connect to your new Firebase database you will need to change the key at the top of file in app.js to your credentials that are located within Firebase here is a picture
+  * To be able to get all of our file to connect to your new Firebase database you will need to change the key at the top of file in app.js to your credentials that are located within Firebase here is a picture(this will be explained in setting up the database)
   # ![Firebase](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/images/Firebase.JPG)
   * Drag and drop them from your desktop to the root folder of the EC2 intstance on the file sharing system
 3. Next, set up the FireBase database by creating a FireBase account (you will need a gmail email account)
@@ -370,9 +370,17 @@ Tasks completed
   * Change the Authentication by going under 'Authentication' from the side bar
   * Choose the 'Sign-In Method' from the top menu
   * Enable the 'Email/Password' opption since this is what we use for out login
+  * Click 'Storage' on the menu to the left
+  * Chose 'Rules' from the top menu
+  * Change the allow section to 'allow read, write;' 
+  * Click 'Public'
+  * Click 'Overview' in the side menu
+  * Click 'Add Firebase to your App'
+  * Copy and paste that at the top of the app.js file
+  
 
 #### Things that we did not get to Accomplish and Why
 
 1. Edit Account Page: This page was not finished due to time constraints. It was put on the bottom of our list of things to accomplish, and with other finals and projects we were not able to get to it.
-2. The search functionality was tricky, becasue Firebase is so new, and a NoSQL database. There was not a lot of documentation about how to implement this, and there are not SQL quieres we can run against the database. This caused our search functionality to not be able to search for multiple files at a time. It is no longer a case sensitive search, but the key words must be eaxact searches. The searches can not be just partial words or letters. 
+2. The search functionality was tricky, becasue Firebase is so new, and a NoSQL database. There was not a lot of documentation about how to implement this, and there are not SQL quieres we can run against the database. This caused our search functionality to not be able to search for multiple files at a time. It is no longer a case sensitive search, but the key words must be exact searches. The searches can not be just partial words or letters. 
 3. To edit a document a user must first search for a document if it is not already on your desktop. After, searching download the document, and copy and paste it into the edit area to begin edits. By clicking the 'Update' button the file is updated in the database, and saved to your desktop. The delete button has also been removed from the edit page.
