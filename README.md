@@ -24,6 +24,8 @@ Xinyi Li
 * [Sprint 3] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/RequirementsDocumentationsSprint3.docx)
 
 * [Sprint 4] (https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/Sprint4Documentation.pdf)
+
+* [Final] ()
   
 Develop a full requirements analysis (“REQS”) for the semester.  
 1. Table of Contents  
@@ -327,6 +329,20 @@ User Documentation was structured and started. The following sections were added
 * Error messages added to login/register page to inform user
 * Fixed code for login back button issue
 * Uploading now displays warning messages for wrong file types and uploads files.
+
+
+##Final 
+
+Tasks completed
+* Sprint 4 Revisions
+* Additions of links to all necessary information
+* Creation of final document
+
+####Sprint 4 Revisions
+* Documentation cleaned up for clarity -- Olivia Apperson and Xinyi Li
+* Code finalized and in working condition -- Teddy Ivanov
+* Deployment instructions reworked and edited -- Soya Ouk
+* Test cases revised and edited -- Andrea McGovern 
 
 
 #### Deployment
