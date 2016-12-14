@@ -348,8 +348,29 @@ Tasks completed
 #### Deployment
 
 1. Create an Amazon Web Service Account (AWS)
-2. Create an EC2 instance of the Ubuntu Server 14.04 (this one is easier to debug issues with a MAC, and supports the Firebase database we choose to use)
-3. Then, use a file sharing system (we used both FileZilla and WinSCP) to host our website to the EC2 instance
-4. Next, set up the FireBase database by getting a FireBase account (you will need an email)
-5. Create a new project
-6. Change the Authentication by going under Authentication, choose the Sign-in method, and enable the Email/Password opption
+  * Choose 'Services' from the top dropdown menu
+  * Click 'Launch Instance'
+  * Scroll down the page, and choose the Ubuntu Server 14.04 LTS (HVM), SSD Volume Type - ami-01f05461 (this one is easier to debug issues with a MAC on terminal)
+  * Choose the t2.micro (free tier)
+  * Choose 'create a new key pair' from the dropdown menu
+  * Name the key pair
+  * Download, and save the key pair to your desktop 
+  * Click 'Launch Instance'
+  * Navigate to the 'EC2 Dashboard', and choose 'Running Instances' to ensure that the instance is running correctly (may need to log out of the AWS account and back in to refresh the page)
+2. Then, use a file sharing system (we used both FileZilla and WinSCP) to host our website files to the root folder of the EC2 instance these files are located on GitHub in the DML folder
+  * You will need the credentials from the AWS Ubuntu instance to login to the instance through the file sharing system
+  * Download our files from the DML folder on GitHub to your desktop
+  * Drag and drop them from your desktop to the root folder of the EC2 intstance on the file sharing system
+3. Next, set up the FireBase database by creating a FireBase account (you will need a gmail email account)
+  * Click 'Create New Project' on the main page
+  * Name the project and choose the United States from the dropdown box as the region
+  * Then click 'Create Project'
+  * Change the Authentication by going under 'Authentication' from the side bar
+  * Choose the 'Sign-In Method' from the top menu
+  * Enable the 'Email/Password' opption since this is what we use for out login
+
+#### Things that we did not get to Accomplish and Why
+
+1. Edit Account Page: This page was not finished due to time constraints. It was put on the bottom of our list of things to accomplish, and with other finals and projects we were not able to get to it.
+2. The search functionality was tricky, becasue Firebase is so new, and a NoSQL database. There was not a lot of documentation about how to implement this, and there are not SQL quieres we can run against the database. This caused our search functionality to be able to search for multiple files at a time. It is no longer case sensitive, and you can type in partial words or letters. These partial searches work to an extent, but again becasue of not having SQL quieries it is touchy.
+3. To edit a document a user must first search for a document if it is not already on your desktop. After, searching download the document, and copy and paste it into the edit area to begin edits. By clicking the 'Update' button the file is updated in the database, and saved to your desktop. The delete button has also been removed from the edit page.
