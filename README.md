@@ -364,19 +364,10 @@ Tasks completed
   # ![Firebase](https://github.com/TeddyIvanov/SoftwareEngineering-Group3/blob/master/images/Firebase.JPG)
   * Drag and drop them from your desktop to the root folder of the EC2 intstance on the file sharing system
 3. Next, set up the FireBase database by creating a FireBase account (you will need a gmail email account)
-  * Click 'Create New Project' on the main page
-      Name the project and choose the United States from the dropdown box as the region
-      Then click 'Create Project'
-  * Change the Authentication by going under 'Authentication' from the side bar
-    Choose the 'Sign-In Method' from the top menu
-    Enable the 'Email/Password' opption since this is what we use for out login
-  * Click 'Storage' on the menu to the left
-    Chose 'Rules' from the top menu
-    Change the allow section to 'allow read, write;' 
-    Click 'Public'
-  * Click 'Overview' in the side menu
-    Click 'Add Firebase to your App'
-    Copy and paste it to the app.js file
+  * Click 'Create New Project' on the main page: Name the project and choose the United States from the dropdown box as the region, and then click 'Create Project'
+  * Change the Authentication by going under 'Authentication' from the side bar: Choose the 'Sign-In Method' from the top menu, and then enable the 'Email/Password' opption since this is what we use for out login
+  * Click 'Storage' on the menu to the left: Choose 'Rules' from the top menu, then change the allow section to 'allow read, write;', and finally click 'Public'
+  * Click 'Overview' in the side menu: Click 'Add Firebase to your App', and then copy and paste it to the app.js file
   
 
 #### Things that we did not get to Accomplish and Why
