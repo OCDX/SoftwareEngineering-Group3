@@ -61,11 +61,16 @@
 		var storageRef = firebase.storage().ref('manifests/' + file.name);
 
 		var task = storageRef.put(file);
+		console.log("this is the file that gets sent: "+file);
 		//should be checking for the file to exist in the sotrage before uploading it. TODO
 
 		storageRef.getDownloadURL().then(function(url) {
 
-			writeNewUserData(userName, $('#author').val(), $('#title').val(), url, file.name);
+			var author = $('#author').val();
+			var title = $('#title').val();
+			author = author.toLowerCase();
+			title = title.toLowerCase();
+			writeNewUserData(userName, author, title, url, file.name);
 
 			console.log("new instance created");
 
@@ -104,11 +109,6 @@
 	    	file : locationURL
 		  });
 
-	  /*firebase.database().ref('uploads/' + userId + '/' +).set({
-	    title: name,
-	    author: writer,
-	    file : locationURL
-	  });*/
 	  // Display a success toast, with a title
 		toastr.success('Successfully uploaded ' + fileName);
 	}

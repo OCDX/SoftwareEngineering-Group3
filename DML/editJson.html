@@ -59,10 +59,14 @@
         <script src="js/jquery.fancybox.js"></script>
         <!-- template main js -->
         <script src="js/main.js"></script>
+		
+        <script src="/ckeditor/ckeditor.js"></script>
 
         <!--toastr-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
         <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css"></link>
+
+		
     </head>
     <body>
         <!--
@@ -96,7 +100,9 @@
                             <li>
                                 <a href="index.html" >Home</a>
                             </li>
-                            <li><a href="search.html">Search</a></li>
+                            <li>
+                                <a href="search.html">Search</a>
+                            </li>
                             <li><a href="upload.html">Upload</a></li>
                             <li><a href="index.html" id="btnLogOut">Logout</a></li>
                         </ul>
@@ -115,7 +121,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="block">
-                            <h2>Search for JSON Files</h2>
+                            <h2>Search Results for JSON Files</h2>
                             <ol class="breadcrumb">
                                 <li>
                                     
@@ -133,25 +139,25 @@
         <section class="company-description">
             <div class="container">
                 <div class="row">
-                <!-- 
-                    This form will submit a 'method' request
-                    the request is sent to 'action'
-                    In this case 'method' = POST and 'action' = this_php_script
-                 -->
-                        <div class="row">
-                                <input class='col-md-10' style="width:relative;" type="text" name="userinput" id="searchInput">
-                                <input class=" btn btn-info col-md-2" type="submit" name="submit" value="Search" id="searchButton"/>
-                        </div>
-                        <div class="row">
-                            <input checked="check" type="radio" name="radios" value=1 id="titleSelected">Title
-                            <input type="radio" name="radios" value=2 id="authorSelected">Author
-                        </div>
+                    <div class="row">
+						<!--<textarea id="textArea" name="editor1"></textarea>
 
-                        <div id="tableDiv">
-                            <table id="table" class="table">
-                            </table>
-                        </div> 
+                        <script>
+                            // Enable local "abbr" plugin from /myplugins/abbr/ folder.
+                            CKEDITOR.plugins.addExternal( 'uploadwidget', '/ckeditor/plugins/uploadwidget/', 'plugin.js' );
+                            CKEDITOR.replace( 'editor1' );
 
+                            /*CKEDITOR.replace( 'editor1', {
+                                extraPlugins: 'uploadwidget'
+                            });*/
+                        </script>
+						<br>-->
+                        <textarea id="textArea" rows="10" cols="150">Notes Here...</textarea>
+                        <br>
+
+						<button class="btn" id="btnUpdate" />Update/Download</button>
+
+                    </div>
                 </div>
             </div>
         </section>
@@ -174,8 +180,7 @@
         </footer> <!-- /#footer -->
 
          <script src="http://ec2-35-163-197-29.us-west-2.compute.amazonaws.com/app2.js"></script>
-         <!--include script for searching here-->
-         <script src="http://ec2-35-163-197-29.us-west-2.compute.amazonaws.com/searchDB.js"></script>
+         <script src="http://ec2-35-163-197-29.us-west-2.compute.amazonaws.com/edit.js"></script>
         
     </body>
 </html>
