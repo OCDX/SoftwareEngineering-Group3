@@ -341,6 +341,8 @@ Tasks completed
 ####Sprint 4 Revisions
 * Documentation cleaned up for clarity -- Olivia Apperson and Xinyi Li
 * Code finalized and in working condition -- Teddy Ivanov
+  * Users can see all entries using the word "all" when searching
+  * For other queries, searches must be exactly how they were entered into the system (See bottom section)
 * Deployment instructions reworked and edited -- Soya Ouk
 * Test cases revised and edited -- Andrea McGovern 
 
