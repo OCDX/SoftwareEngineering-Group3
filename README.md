@@ -370,6 +370,7 @@ Tasks completed
   * Change the Authentication by going under 'Authentication' from the side bar: Choose the 'Sign-In Method' from the top menu, and then enable the 'Email/Password' opption since this is what we use for out login
   * Click 'Storage' on the menu to the left: Choose 'Rules' from the top menu, then change the allow section to 'allow read, write;', and finally click 'Public'
   * Click 'Overview' in the side menu: Click 'Add Firebase to your App', and then copy and paste it to the app.js file
+  * Click Database on the side menu bar: Click Data at the top menu bar, Click the green '+', Click the next green '+', give the first one the name of 'uploads', name the next one whatever you want and add a value of whatever you want, and click 'Add'
   
 
 #### Things that we did not get to Accomplish and Why
